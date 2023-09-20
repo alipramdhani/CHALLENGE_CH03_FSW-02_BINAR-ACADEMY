@@ -19,15 +19,21 @@ array data mobil
 
 
 ============== Detail Pengerjaan =============
+
 Buat RESTful API untuk manajemen data mobil tanpa database (bisa menggunakan data array saja) :
 
 a. GET '/' akan membuka root endpoint dengan response {message: “ping 
 successfully”}
+
 b. GET '/api/v1/cars' akan membuka list cars
+
 c. GET '/api/v1/cars/:id' akan membuka satu data cars.
+
 d. POST '/api/v1/cars' akan mengembalikan response data cars yang sudah terbuat.
+
 e. PUT '/api/v1/cars/:id' akan mengembalikan response data cars yang sudah 
 terupdate.
+
 f. DELETE '/api/v1/cars/:id' akan mengembalikan response data cars yang sudah 
 terhapus.
 
