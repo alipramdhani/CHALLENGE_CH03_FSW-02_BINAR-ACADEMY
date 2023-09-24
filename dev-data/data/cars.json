@@ -801,5 +801,15 @@
             "Remote fuel lid release",
             "Traveler/mini trip computer"
         ]
+    },
+    {
+        "id": "20092023-binar-car-rental",
+        "plate": "BCR-3491",
+        "manufacture": "Honda",
+        "model": "GT550",
+        "image": "./images/car01.min.jpg",
+        "rentPerDay": 1000000,
+        "capacity": 2,
+        "description": " Brake assist. Leather-wrapped shift knob. Glove box lamp. Air conditioning w in-cabin microfilter."
     }
 ]
